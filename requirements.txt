@@ -1,0 +1,6 @@
+HD44780==1.1.2
+httplib2==0.19.1
+numpy==1.16.6
+pyalsaaudio==0.9.0
+pyparsing==2.4.7
+RPi.GPIO==0.7.0
